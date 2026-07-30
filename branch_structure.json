@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/845-gas-fee-estimator",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/845-gas-fee-estimator": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/845-gas-fee-estimator",
+    "origin"
+  ]
+}
